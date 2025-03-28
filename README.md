@@ -1,0 +1,2 @@
+# Fraud-Detection-Using-Machine-Learning-Hyperparameter-Tuning-with-RandomizedSearchCV.
+This project focuses on fraud detection using a Random Forest Classifier, optimized with RandomizedSearchCV for hyperparameter tuning. It involves data preprocessing, feature engineering, and multi-collinearity handling. Model evaluation is done using AUC-ROC, Confusion Matrix, and SHAP values, ensuring accuracy, robustness, and interpretability.
